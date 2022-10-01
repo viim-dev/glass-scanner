@@ -15,7 +15,7 @@
  limitations under the License.
 -->
 <resources>
-  <string name="app_name">QR Code Scanner Sample</string>
-  <string name="tap_to_scan_qr_code">Tap to scan QR code</string>
+  <string name="app_name">ViiMCode Scanner Sample</string>
+  <string name="tap_to_scan_qr_code">Tap to scan ViiM code</string>
   <string name="result_label">Result:</string>
 </resources>
