@@ -29,7 +29,7 @@ import androidx.camera.core.CameraX;
 import androidx.core.content.ContextCompat;
 
 import dev.viim.glass.qrcodescannersample.QRCodeImageAnalysis.QrCodeAnalysisCallback;
-import dev.viim.glass.ui.GlassGestureDetector.Gesture;
+import com.example.glass.ui.GlassGestureDetector.Gesture;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

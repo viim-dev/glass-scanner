@@ -23,7 +23,7 @@ import android.view.View;
 import android.widget.TextView;
 import androidx.annotation.Nullable;
 
-import dev.viim.glass.ui.GlassGestureDetector.Gesture;
+import com.example.glass.ui.GlassGestureDetector.Gesture;
 
 /**
  * This activity scans a QR code and shows the result.
